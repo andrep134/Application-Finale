@@ -1,0 +1,50 @@
+{
+  "colors": {
+    "primary": "#6F1B2A",
+    "primaryVariant": "#8A1F34",
+    "onPrimary": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "surfaceVariant": "#F5F1EB",
+    "background": "#FDF9F4",
+    "onBackground": "#2C1B1B",
+    "secondary": "#2E6B4E",
+    "onSecondary": "#FFFFFF",
+    "accent": "#D5B27F",
+    "error": "#B3261E",
+    "outline": "#C4A69A",
+    "success": "#2E6B4E",
+    "warning": "#C97A1F"
+  },
+  "typography": {
+    "displayLarge": {"fontFamily": "Poppins", "fontWeight": 600, "fontSize": 57},
+    "displayMedium": {"fontFamily": "Poppins", "fontWeight": 500, "fontSize": 45},
+    "headlineLarge": {"fontFamily": "Inter", "fontWeight": 600, "fontSize": 32},
+    "headlineMedium": {"fontFamily": "Inter", "fontWeight": 500, "fontSize": 28},
+    "titleLarge": {"fontFamily": "Roboto", "fontWeight": 600, "fontSize": 22},
+    "titleMedium": {"fontFamily": "Roboto", "fontWeight": 500, "fontSize": 16},
+    "bodyLarge": {"fontFamily": "Inter", "fontWeight": 400, "fontSize": 16},
+    "bodyMedium": {"fontFamily": "Inter", "fontWeight": 400, "fontSize": 14},
+    "labelLarge": {"fontFamily": "Poppins", "fontWeight": 600, "fontSize": 14}
+  },
+  "shape": {
+    "cornerRadiusSmall": 12,
+    "cornerRadiusMedium": 20,
+    "cornerRadiusLarge": 24
+  },
+  "elevation": {
+    "level1": {"shadowColor": "#3D0F17", "blur": 12, "offsetY": 4, "alpha": 0.18},
+    "level2": {"shadowColor": "#3D0F17", "blur": 24, "offsetY": 8, "alpha": 0.12}
+  },
+  "spacing": {
+    "xs": 8,
+    "sm": 12,
+    "md": 16,
+    "lg": 24,
+    "xl": 32
+  },
+  "ripple": {
+    "color": "#FFFFFF",
+    "alpha": 0.24,
+    "duration": 180
+  }
+}
